@@ -1,0 +1,14 @@
+@font-face {
+   font-family: 'Sanchez';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/stefangrage/Documents/skrivebord-april-2021/skudtfrahoften.dk/fonts/Sanchez/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Sanchez';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/stefangrage/Documents/skrivebord-april-2021/skudtfrahoften.dk/fonts/Sanchez/italic.ttf') format('truetype');
+}
